@@ -5,6 +5,7 @@
  *      Author: winston
  */
 #include<stdio.h>
+#include<stdlib.h>
 #include"edf.h"
 
 //Something like a Timer in a Microcontroller
